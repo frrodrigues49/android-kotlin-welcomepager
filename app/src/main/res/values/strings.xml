@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-kotlin-welcomepager</string>
+    <string name="dotted">&#8226;</string>
+</resources>
